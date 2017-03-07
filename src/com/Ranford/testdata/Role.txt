@@ -1,0 +1,4 @@
+RoleName###RoleType###Results
+Amanager19###E
+Amanager20###E
+Amanager25###E
